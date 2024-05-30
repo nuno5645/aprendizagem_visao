@@ -50,7 +50,7 @@ O dataset final foi construído organizando as imagens e máscaras em diretório
 - Utilização da classe `ImageDataGenerator` do TensorFlow para normalizar os dados.
 - Implementação de uma classe `DisplayPredictions` para monitorizar o desempenho do modelo durante o treino.
 - Construção e compilação de uma U-Net, utilizando a perda de Dice e o coeficiente de Dice como métricas.
-- Treinamento do modelo com `model.fit` e utilização de callbacks para monitorização do desempenho.
+- Treino do modelo com `model.fit` e utilização de callbacks para monitorização do desempenho.
 
 ## Resultados
 
