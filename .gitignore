@@ -1,2 +1,4 @@
 /models
 *.h5
+/output
+/output_images
