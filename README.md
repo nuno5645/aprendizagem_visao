@@ -41,7 +41,7 @@ O dataset final foi construído organizando as imagens e máscaras em diretório
 ### Primeira Estratégia
 
 - Utilização do modelo ResNet50-UNet com 256 classes e dimensões de entrada de 224x224 pixels.
-- Treinamento do modelo durante 20 épocas com `EarlyStopping`.
+- Treino do modelo durante 20 épocas com `EarlyStopping`.
 - Teste do modelo com imagens aleatórias do dataset e avaliação das métricas de desempenho.
 
 ### Segunda Estratégia
